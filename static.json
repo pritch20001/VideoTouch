@@ -1,4 +1,5 @@
 {
+  "root": "agoarvideo/",
   "routes": {
     "/**": "agoarvideo/index.html"
   }
