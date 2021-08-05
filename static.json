@@ -1,6 +1,1 @@
-{
-  "root": "agoarvideo/",
-  "routes": {
-    "/**": "index.html"
-  }
-}
+{}
